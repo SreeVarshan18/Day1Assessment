@@ -1,0 +1,7 @@
+x=input("Add a sentence")
+y=x.lower()
+z=y.split()
+a=min(z)
+b=max(z)
+print(a)
+print(b)
